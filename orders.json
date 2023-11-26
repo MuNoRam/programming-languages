@@ -1,0 +1,40 @@
+{
+    "orders": [
+        {
+        "pharmacist":"",
+        "statue":"",
+        "paid":false,
+        "med":[
+                {
+                    "name":"",
+                    "qty":"",
+                    "price":2
+                },
+                {
+                    "name":"",
+                    "qty":"",
+                    "price":2
+                }
+                ],
+        "total_price":500
+    },
+    {
+        "pharmacist":"",
+        "statue":"",
+        "paid":false,
+        "med":[
+                {
+                    "name":"",
+                    "qty":"",
+                    "price":2
+                },
+                {
+                    "name":"",
+                    "qty":"",
+                    "price":2
+                }
+                ],
+        "total_price":500
+    }
+]
+}
